@@ -10,4 +10,5 @@ This is a demo project for Mikromedia Plus for STM32F7 board by Mikroelektronika
 - mikroBootloader - for programing MCU with a preloaded USB-HID bootloader
 
 More info and example cab be found [here](http://www.optolab.ftn.uns.ac.rs/index.php/education/project-base/241-mikromedia-for-stm32f7)
+
 Demo video on [youtube](https://www.youtube.com/watch?v=qSet84PIobA)
