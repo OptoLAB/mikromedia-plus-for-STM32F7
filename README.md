@@ -1,6 +1,6 @@
 # Mikromedia Plus for STM32F7 & STemWin GUI library
 
-## Getting Started
+## About project
 
 This is a demo project for [Mikromedia Plus for STM32F7](https://www.mikroe.com/mikromedia-4-stm32f7) board by Mikroelektronika. Project was built using following ecosystem:
 
